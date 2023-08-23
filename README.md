@@ -2,19 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Write a program that prints a christmas tree to the console based on an integer argument for how many tiers are to be printed
 
 ## Description
-TODO - How have you solved the problem?
+Lots of iterating, math, and other annoying stuff :D 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+N/A
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+run gandalf to ensure tests are passing!
 
 ### The Core Team
 
